@@ -1,0 +1,28 @@
+.form-inner{
+    margin: 100px auto;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.welcome{
+    margin: 0px auto;
+    width: 100px;
+    margin: 10px auto;
+}
+
+.signup-button {
+    margin: 10px auto;
+    width: 183px;
+    height: 20px;
+    background-color: #5a465a; 
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+}
+.signup-button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
